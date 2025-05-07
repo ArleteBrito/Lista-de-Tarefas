@@ -28,7 +28,9 @@ Uma aplicação simples de lista de tarefas (To-Do List) desenvolvida com **HTML
 ## 📂 Estrutura de Pastas
 
 ├── index.html
+
 ├── styles.css
+
 └── scripts.js
 
 ---
@@ -42,15 +44,15 @@ git clone https://github.com/ArleteBrito/Lista-de-Tarefas
 
 Abra o arquivo index.html no navegador, ou use uma extensão como Live Server (VS Code)
 
-💾 Armazenamento
+## 💾 Armazenamento
 
 As tarefas são armazenadas localmente no navegador usando o localStorage, ou seja, mesmo se você fechar e reabrir a página, suas tarefas permanecerão salvas.
 
-📌 Licença
+## 📌 Licença
 
 Este projeto é de uso livre e educacional. Sinta-se à vontade para modificar, melhorar e compartilhar
 
-🙋‍♂️ Autor
+## 🙋‍♂️ Autor
 
 Desenvolvido por [Arlete Brito] – contato: [arletebrittto@gmail.com]
 
